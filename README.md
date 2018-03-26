@@ -18,5 +18,5 @@ DTAM: Dense Tracking andMapping in Real-Time
 Master Thesis: 
 Multi-View 3D Reconstruction of Highly-Specular Objects
 [thesis](https://github.com/aljosaosep/master-seminars/blob/master/comuter-graphics-thesis/thesis_doc.pdf), 
-[slides](https://github.com/aljosaosep/master-seminars/blob/master/comuter-graphics-thesis/osep_thesis_slides.pdf)
+[slides](https://github.com/aljosaosep/master-seminars/blob/master/comuter-graphics-thesis/osep_thesis_slides.pdf),
 [summer school poster](https://github.com/aljosaosep/master-seminars/blob/master/comuter-graphics-thesis/poster_osep_icvss_final.pdf)
