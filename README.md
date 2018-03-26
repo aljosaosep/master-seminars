@@ -14,4 +14,4 @@ Multiview Normal Field Integration using Graph-Cuts
 
 Cognitive Robotics Seminar: 
 DTAM: Dense Tracking andMapping in Real-Time
-[slides](https://github.com/aljosaosep/master-seminars/blob/master/cognitive-robotics-seminar/cognitive_robotics_DTAM.pptx).
+[slides](https://github.com/aljosaosep/master-seminars/blob/master/cognitive-robotics-seminar/cognitive_robotics_DTAM.pptx)
